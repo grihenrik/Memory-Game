@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+.Start{
+  width: 20vh;
+  height: 10vh;
+  font-size: 5vh;
+  font-weight: 600;
+  border-radius: 3vh;
+  background-color: lightcoral;
+}
+.Card {
+  background: lightblue;
+  border: 1px solid #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 96px;
+  height: 96px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 96px;
+}
+
+.Card--flipped {
+  background-color: gray;
+}
+.Card--matched {
+  background-color:green;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /*justify-content: center;*/
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
