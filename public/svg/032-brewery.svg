@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512" height="512">
+<g>
+	<circle style="fill:#FD3019;" cx="256" cy="256" r="256"/>
+	<path style="fill:#C91B10;" d="M512,256c0-1.784-0.031-3.561-0.068-5.337L403,141.73L293.163,178l-68.745-69L186,262l-77,141   l105.66,105.66c13.459,2.185,27.263,3.34,41.34,3.34C397.385,512,512,397.385,512,256z"/>
+	<line style="fill:#57555C;" x1="512" y1="57" x2="512" y2="147"/>
+	<g>
+		<path style="fill:#57555C;" d="M224.418,270.93h-51.68V109h51.68V270.93z"/>
+		<path style="fill:#3C3A41;" d="M224.418,270.93h-26.414V109h26.414V270.93z"/>
+		<path style="fill:#C8C6CE;" d="M287.008,403H109v-51.68h178.008V403z"/>
+		<path style="fill:#E5E5E5;" d="M287.008,368.547H109v-46.634l68.21-68.21h41.589l68.21,68.21V368.547z"/>
+		<rect x="198.004" y="351.32" style="fill:#ADACB3;" width="89.004" height="51.68"/>
+		<polygon style="fill:#D9D9D9;" points="287.008,321.913 218.798,253.703 198.004,253.703 198.004,368.547 287.008,368.547   "/>
+		<g>
+			<g>
+				<path style="fill:#FEDBAB;" d="M339.836,270.93h-51.68v-68.906c0-33.246,27.047-60.293,60.293-60.293H403v51.68h-54.551      c-4.749,0-8.613,3.864-8.613,8.613V270.93z"/>
+				<path style="fill:#FEC478;" d="M403,167.609h-55.015c-19.089,0-34.563,15.474-34.563,34.563v68.757h26.414v-68.906      c0-4.75,3.864-8.613,8.613-8.613H403V167.609z"/>
+			</g>
+			<path style="fill:#FEA832;" d="M403,403H224.992v-51.68H403V403z"/>
+			<rect x="313.996" y="351.32" style="fill:#FE9922;" width="89.004" height="51.68"/>
+			<path style="fill:#FCBF27;" d="M403,368.547H224.992v-46.634l68.21-68.21h41.589l68.21,68.21V368.547z"/>
+			<polygon style="fill:#FEA832;" points="403,321.913 334.79,253.703 313.996,253.703 313.996,368.547 403,368.547    "/>
+		</g>
+	</g>
+</g>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</svg>
